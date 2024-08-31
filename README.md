@@ -1,5 +1,7 @@
 # MiniAutoGrad
-MiniAutoGrad for backpropagation and neural networksfrom micrograd.engine import Value
+MiniAutoGrad for backpropagation and neural networks
+Implements a similar API like PyTorch, operates only over scalar values, but is enough to build and train neural networks.
+
 
 ```python
 a = Value(-4.0)
