@@ -1,5 +1,5 @@
 # MiniAutoGrad
-MiniAutoGrad for backpropagation and neural networks
+MiniAutoGrad for backpropagation and neural networks   
 Implements a similar API like PyTorch, operates only over scalar values, but is enough to build and train neural networks.
 
 
